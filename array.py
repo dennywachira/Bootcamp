@@ -1,11 +1,3 @@
-food= ["ugali","Rice","Chapati","Matoke","Rice"]
+names=[]
 
-food.remove("ugali")
-
-food.append("mokimo")
-
-x= food.count("Rice")
-
-
-
-print(x)
+firstname= input(("enter your firstname"))
