@@ -1,3 +1,6 @@
+
 a=[]
 for i in range (10):
-    a[i] =i*i
+    a[1] =i*i
+
+    print(a)
